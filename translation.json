@@ -1,7 +1,7 @@
 
 
 
-{ "languages": ["en", "bm", "cn"],
+{ "languages": ["en", "bm"],
   "translation": [
     {"en": "Malaysia Covid19 (Updated Daily Based on KKM Data)", "bm": "Covid19 Malaysia (Dikemaskini Setiap Hari Berdasarkan Data KKM)"},
     {"en": "Application Developed by Dr. Ho Ket Li", "bm": "Aplikasi Dibangunkan oleh Dr Ho Ket Li"},
