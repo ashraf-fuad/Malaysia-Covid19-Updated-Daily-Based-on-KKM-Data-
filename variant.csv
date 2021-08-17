@@ -1,17 +1,17 @@
 ﻿State,Alpha,Beta,Delta,Kappa,Theta,Eta,Sum
-Selangor,8,48,31,1,0,0,88
-Kelantan,0,25,3,0,0,0,28
-Sarawak,0,47,272,0,13,1,333
-WP Kuala Lumpur,3,9,13,0,0,2,27
-Kedah,0,14,13,0,0,0,27
-Perak,0,16,4,0,0,0,20
-Johor,0,10,16,3,0,0,29
-WP Putrajaya,0,3,6,0,0,0,9
-Terengganu,0,9,7,0,0,0,16
-Negeri Sembilan,0,3,9,0,0,0,12
-Sabah,3,4,4,0,0,0,11
-Perlis,0,4,4,0,0,0,8
-Pulau Pinang,0,8,1,0,0,0,9
-Melaka,0,7,8,0,0,0,15
-WP Labuan,0,0,14,0,0,0,14
-Pahang,0,2,19,0,0,0,21
+Sarawak	,0	,47,	272,	0,	13,	1
+Selangor,	8	,48	,69,	1,	0,	0
+WP Kuala Lumpur	,3,	9	,18	,0,	0,	2
+Johor	,0,	10	,16,	3,	0,	0
+Kelantan	,0,	25,	3,	0,	0,	0
+Kedah,	0,	14,	13,	0,	0,	0
+Pahang,	0,	2,	19,	0	,0	,0
+Perak,	0,	16,	4,	0,	0,	0
+Terengganu	,0,	9,	7,	0,	0,	0
+Melaka,	0,	7,	8,	0,	0,	0
+WP Labuan,	0,	0,	14,	0	,0	,0
+Negeri Sembilan,	0,	3,	9,	0,	0,	0
+Sabah	,3	,4	,4	,0	,0	,0
+WP Putrajaya,	0,	3,	6,	0,	0,	0
+Pulau Pinang	,0	,8,	1,	0,	0,	0
+Perlis,	0,	4,	4,	0,	0,	0
